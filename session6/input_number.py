@@ -3,4 +3,4 @@ print (txt)
 if txt.isdigit():
     print("A number")
 else:
-    print("Not a number")
+    print("Not a number") 
