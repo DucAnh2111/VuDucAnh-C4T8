@@ -1,0 +1,1 @@
+person = [Vu Duc Anh, 15, Ha Noi, True, 14]
